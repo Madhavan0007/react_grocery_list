@@ -1,3 +1,3 @@
-To view , 
-[click here](https://madhavan0007.github.io/grocery_gh/ Through github pages)
-[click here](https://main--shiny-conkies-caf03d.netlify.app/ Through netlify)
+To view on GitHub Pages, [click here](https://madhavan0007.github.io/grocery_gh/).
+
+To view on Netlify, [click here](https://main--shiny-conkies-caf03d.netlify.app/).
